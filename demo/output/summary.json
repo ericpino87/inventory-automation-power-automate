@@ -1,0 +1,10 @@
+{
+  "note": "All records, suppliers, numbers and costs are fictitious.",
+  "original_erp_rows": 9,
+  "sku_after_aggregation": 5,
+  "report_skus_with_stock": 4,
+  "needs_classification_review": 1,
+  "stock_available": 77,
+  "incoming_warehouse_5": 10,
+  "report_generated_locally": true
+}

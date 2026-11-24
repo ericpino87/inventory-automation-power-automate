@@ -1,0 +1,5 @@
+sku,brand,product_name,description,model,generation,processor,technical_family,stock_type,classification_source,stock_available,incoming_warehouse_5,eta_approx,unit_cost,quoted_price_demo
+A-DEMO-F14,BRAND_A,NOTEBOOK F14 G7 U7,Modern AI laptop 32 GB memory,F14,G7,U7,F14 U7 G7,AI_ULTRA,generic_fallback,50,10,Expected second half of next month,980,1127
+A-DEMO-T14,BRAND_A,NOTEBOOK T14 G3 I7,14 inch business laptop,T14,G3,I7,T14 I7 G3,SPECIAL_OPPORTUNITY,explicit_rule,12,0,Available upon confirmation,750,862.5
+B-DEMO-L14,BRAND_B,NOTEBOOK L14 G2 I5,14 inch laptop,L14,G2,I5,L14 I5 G2,STANDARD_STOCK,explicit_rule,6,0,Delivery confirmation pending,620,713
+O-DEMO-MONITOR,OTHER,DISPLAY 24 G1 I5,24 inch office display,,,I5,I5,REVIEW_REQUIRED,manual_review,9,0,,180,207

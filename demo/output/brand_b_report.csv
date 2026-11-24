@@ -1,0 +1,2 @@
+sku,brand,product_name,description,model,generation,processor,technical_family,stock_type,classification_source,stock_available,incoming_warehouse_5,eta_approx,unit_cost,quoted_price_demo
+B-DEMO-L14,BRAND_B,NOTEBOOK L14 G2 I5,14 inch laptop,L14,G2,I5,L14 I5 G2,STANDARD_STOCK,explicit_rule,6,0,Delivery confirmation pending,620,713
