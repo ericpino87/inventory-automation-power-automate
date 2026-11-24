@@ -1,5 +1,7 @@
 # ERP Inventory Reporting Automation
 
+**[🚀 Try the Live Demo](https://ericpino87.github.io/inventory-automation-power-automate/)**
+
 **A public, privacy-safe portfolio case study of a B2B technology inventory automation workflow.**
 
 ![Excel report preview using fictitious data](assets/demo-preview.png)
