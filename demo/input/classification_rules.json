@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "BRAND_A",
+    "model": "T14",
+    "min_generation": 1,
+    "max_generation": 4,
+    "processor": "ANY",
+    "stock_type": "SPECIAL_OPPORTUNITY",
+    "priority": 1
+  },
+  {
+    "brand": "BRAND_B",
+    "model": "L14",
+    "min_generation": 1,
+    "max_generation": 4,
+    "processor": "I5",
+    "stock_type": "STANDARD_STOCK",
+    "priority": 10
+  }
+]

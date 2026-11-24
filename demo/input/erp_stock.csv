@@ -1,0 +1,10 @@
+sku,brand,product_name,description,warehouse_id,available_stock,unit_cost
+A-DEMO-T14,BRAND_A,NOTEBOOK T14 G3 I7,14 inch business laptop,7,8,750
+A-DEMO-T14,BRAND_A,NOTEBOOK T14 G3 I7,14 inch business laptop,8,4,750
+A-DEMO-F14,BRAND_A,NOTEBOOK F14 G7 U7,Modern AI laptop 32 GB memory,8,50,980
+A-DEMO-F14,BRAND_A,NOTEBOOK F14 G7 U7,Modern AI laptop 32 GB memory,5,10,980
+B-DEMO-L14,BRAND_B,NOTEBOOK L14 G2 I5,14 inch laptop,12,6,620
+B-DEMO-E14,BRAND_B,NOTEBOOK E14 G3 I5,14 inch laptop,5,0,580
+B-DEMO-E14,BRAND_B,NOTEBOOK E14 G3 I5,14 inch laptop,7,0,580
+O-DEMO-MONITOR,OTHER,DISPLAY 24 G1 I5,24 inch office display,15,9,180
+A-DEMO-F14,BRAND_A,NOTEBOOK F14 G7 U7,Modern AI laptop 32 GB memory,3,100,980
